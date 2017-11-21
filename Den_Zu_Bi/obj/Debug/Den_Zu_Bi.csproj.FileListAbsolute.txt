@@ -1,0 +1,9 @@
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\bin\Debug\Den_Zu_Bi.exe.config
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\bin\Debug\Den_Zu_Bi.exe
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\bin\Debug\Den_Zu_Bi.pdb
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.csprojResolveAssemblyReference.cache
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.Form1.resources
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.Properties.Resources.resources
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.csproj.GenerateResource.Cache
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.exe
+c:\users\ab790815\documents\visual studio 2015\Projects\Den_Zu_Bi\Den_Zu_Bi\obj\Debug\Den_Zu_Bi.pdb
